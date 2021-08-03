@@ -1,0 +1,11 @@
+.Container_Box{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .card{
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px #000000;
+  }
